@@ -1,0 +1,2 @@
+- Keep responses clear and concise
+- Don't use analogies unless explicitly told to do so
